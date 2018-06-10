@@ -47,10 +47,7 @@ Android用のクライアントソフト
 
 ## 外部の交換所(Exchange)
 
-* [Twitterウォレット] (Ripple内で取引可能)
-* [BTC-Market](https://btc-market.org/?Pair=SKR_BTC)
 * [Japan Scrypt Trade](http://jpnscryptrade.cart.fc2.com/)
-* [MonacoEx Beta](https://trade.monaco-ex.org/)
 
 ## sakuracoin.conf 設定例
 
@@ -72,17 +69,10 @@ Android用のクライアントソフト
 
 * [LA Mining pool](https://pool.xau.jp/sakuracoin/)
 
-## ブロック情報(Block explorer)
-
-* [Abe]
-
 ## Others
 
-* [addnode情報](http://seed.sighash.info/) 同期できないときにご確認ください。
-* [Twitterウォレット]
-* [Faucet](https://pool.xau.jp/faucet/)
+* [addnode情報](https://lapool.me/seed/)
 * [外部Wiki1]
-* [TANUO PRO]
 
 ## ダウンロードについて
 
@@ -105,6 +95,3 @@ Android用のクライアントソフト
 [sakuracoin]: https://github.com/ohac/sakuracoin
 [GitHubからダウンロード]: https://github.com/ohac/sakuracoin-wallet/releases/
 [ge.ttからダウンロード]: http://ge.tt/8AI28VH1?c
-[Twitterウォレット]: https://wallet.sighash.info/
-[Abe]: http://abe.sighash.info/
-[TANUO PRO]: http://tanuo6.wix.com/tanuotrade
